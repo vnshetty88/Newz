@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Newz</string>
+    <string name="news_image">news image</string>
+    <string name="see_full_news">See Full News</string>
+    <string name="news_listing_title">What\'s the Buzz</string>
+    <string name="detail">Detail</string>
+
+</resources>
